@@ -1,0 +1,17 @@
+.left-bar {
+  width: 15%;
+  background-color: rgb(102, 124, 224);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-bar a {
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.left-bar a:active {
+    color: red;
+}

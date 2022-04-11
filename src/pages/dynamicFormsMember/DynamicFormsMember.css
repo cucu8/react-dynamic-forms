@@ -1,0 +1,58 @@
+.dynamic-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 20px;
+    width: 50%;
+}
+
+.dynamic-form h2 {
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+.form-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+    padding: 10px;
+    width: 100%;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-group label {
+    text-align: start;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.input-group input {
+    height: 36px;
+    border: 2px solid black
+}
+
+.form-row button {
+    width: 36px;
+    height: 36px;
+    border: 2px solid black
+
+}
+
+.send-invitation-button {
+    width: 50%;
+    margin-left: 22px;
+    margin-top: 10px;
+    height: 36px;
+    width: 165px;
+    background-color: rgb(81, 107, 52);
+    color: #fff;
+}
+
+.team-name-input {
+    
+}
